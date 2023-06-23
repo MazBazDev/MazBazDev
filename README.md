@@ -9,12 +9,12 @@
 
 <br/>
 
-## My Skill Set  
+# My Skill Set  
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Frontend  
+## Frontend  
 <br/>
 
   <div align="center">  
@@ -29,7 +29,7 @@
 
 <td valign="top" width="50%">
 
-### Backend  
+## Backend  
 <br/>
 
 <div align="center">  
@@ -53,7 +53,7 @@
 
 <br/>  
 
-## Connect with me  
+# Connect with me  
 <div align="center">
 <a href="https://github.com/MazBazDev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -73,10 +73,15 @@
 <br/>  
 
 
-## Stats since March 2023
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# Stats
 
 <div align="center">
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+    <img src="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&hide_border=true"/>
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&theme=default#gh-light-mode-only&count_private=true&hide_border=true"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazBazDev&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazBazDev&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
 </div>
+
+ 
