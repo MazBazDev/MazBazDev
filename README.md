@@ -104,6 +104,24 @@
 ## Time spent
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 March 2023 - To: 22 June 2023
+
+Total Time: 196 hrs 12 mins
+
+JavaScript       71 hrs 45 mins  >>>>>>>>>----------------   36.57 %
+Go               33 hrs 16 mins  >>>>---------------------   16.96 %
+PHP              30 hrs 31 mins  >>>>---------------------   15.56 %
+HTML             16 hrs 5 mins   >>-----------------------   08.20 %
+Blade Template   15 hrs 26 mins  >>-----------------------   07.87 %
+CSS              12 hrs 39 mins  >>-----------------------   06.45 %
+Bash             5 hrs 45 mins   >------------------------   02.93 %
+Other            2 hrs 41 mins   -------------------------   01.37 %
+JSON             1 hr 36 mins    -------------------------   00.82 %
+XML              1 hr 33 mins    -------------------------   00.79 %
+```
+
 <!--END_SECTION:waka-->
 
 
