@@ -1,4 +1,4 @@
-### <div align="center">I'm MazBaz, a French self-taught full-stack developer 👨‍💻</div>  
+# <div align="center">I'm MazBaz, a French self-taught full-stack developer 👨‍💻</div>  
   
 <br/>
 
@@ -76,10 +76,7 @@
 ## Stats since March 2023
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-#### Time spent coding:
-
-<div align="center"><figure><embed src="https://wakatime.com/share/@a69ee416-3cc0-46bd-ba3e-14ff3a7498f0/0d1754ab-3108-43d6-a259-778f75ee516f.svg"></embed></figure></div>
-
-
-#### Languages :
-<div align="center"><figure><embed src="https://wakatime.com/share/@a69ee416-3cc0-46bd-ba3e-14ff3a7498f0/f5dea598-b0ae-4e3a-a896-a45f6d208825.svg"></embed></figure></div>
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
