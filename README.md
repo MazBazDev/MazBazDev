@@ -76,12 +76,35 @@
 # Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&hide_border=true"/>
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&theme=default#gh-light-mode-only&count_private=true&hide_border=true"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazBazDev&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazBazDev&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&count_private=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&count_private=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=MazBazDev&show_icons=true&count_private=true" />
+    </picture>
+
+   <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MazBazDev&layout=compact&langs_count=8&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MazBazDev&layout=compact&langs_count=8"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazBazDev&layout=compact&langs_count=8" />
+    </picture>
 </div>
+
+## Time spent
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
  
