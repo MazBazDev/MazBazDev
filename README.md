@@ -1,4 +1,4 @@
-# <div align="center">I'm MazBaz, a French self-taught full-stack developer 👨‍💻</div>  
+# <div align="center">I'm MazBaz, a French self-taught full-stack developer 🐓🇫🇷</div>  
   
 <br/>
 
