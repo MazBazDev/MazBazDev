@@ -106,7 +106,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2023 - To: 25 October 2023
+From: 24 March 2023 - To: 26 October 2023
 
 Total Time: 461 hrs 38 mins
 
@@ -117,7 +117,7 @@ Blade Template   57 hrs 15 mins  >>>----------------------   12.40 %
 HTML             21 hrs 51 mins  >------------------------   04.73 %
 CSS              16 hrs 53 mins  >------------------------   03.66 %
 Bash             9 hrs 39 mins   >------------------------   02.09 %
-JSON             7 hrs 7 mins    -------------------------   01.55 %
+JSON             7 hrs 8 mins    -------------------------   01.55 %
 Text             6 hrs 50 mins   -------------------------   01.48 %
 Other            5 hrs 34 mins   -------------------------   01.21 %
 ```
