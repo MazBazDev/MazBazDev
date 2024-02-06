@@ -106,20 +106,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2023 - To: 03 February 2024
+From: 24 March 2023 - To: 04 February 2024
 
-Total Time: 538 hrs 32 mins
+Total Time: 549 hrs 24 mins
 
-PHP                        171 hrs 22 mins >>>>>>>>-----------------   31.82 %
-JavaScript                 129 hrs 7 mins  >>>>>>-------------------   23.98 %
-Blade Template             66 hrs 32 mins  >>>----------------------   12.36 %
-Go                         65 hrs 1 min    >>>----------------------   12.07 %
-HTML                       22 hrs 25 mins  >------------------------   04.16 %
-CSS                        17 hrs 14 mins  >------------------------   03.20 %
-Docker                     11 hrs 49 mins  >------------------------   02.20 %
-Bash                       11 hrs 21 mins  >------------------------   02.11 %
-JSON                       9 hrs 20 mins   -------------------------   01.74 %
-Other                      7 hrs 4 mins    -------------------------   01.31 %
+PHP                        175 hrs 6 mins  >>>>>>>>-----------------   31.87 %
+JavaScript                 133 hrs 51 mins >>>>>>-------------------   24.37 %
+Blade Template             66 hrs 32 mins  >>>----------------------   12.11 %
+Go                         65 hrs 1 min    >>>----------------------   11.84 %
+HTML                       22 hrs 25 mins  >------------------------   04.08 %
+CSS                        17 hrs 14 mins  >------------------------   03.14 %
+Docker                     12 hrs 39 mins  >------------------------   02.31 %
+Bash                       11 hrs 38 mins  >------------------------   02.12 %
+JSON                       9 hrs 29 mins   -------------------------   01.73 %
+YAML                       7 hrs 51 mins   -------------------------   01.43 %
 ```
 
 <!--END_SECTION:waka-->
