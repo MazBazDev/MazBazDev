@@ -106,20 +106,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2023 - To: 24 September 2025
+From: 24 March 2023 - To: 25 September 2025
 
-Total Time: 850 hrs 56 mins
+Total Time: 852 hrs 49 mins
 
-PHP                        295 hrs 18 mins >>>>>>>>>----------------   34.70 %
-JavaScript                 154 hrs 51 mins >>>>>--------------------   18.20 %
-Blade Template             91 hrs 12 mins  >>>----------------------   10.72 %
-Go                         65 hrs 8 mins   >>-----------------------   07.65 %
-Vue.js                     42 hrs 54 mins  >------------------------   05.04 %
-HTML                       35 hrs 13 mins  >------------------------   04.14 %
+PHP                        295 hrs 25 mins >>>>>>>>>----------------   34.64 %
+JavaScript                 154 hrs 51 mins >>>>>--------------------   18.16 %
+Blade Template             91 hrs 12 mins  >>>----------------------   10.69 %
+Go                         65 hrs 8 mins   >>-----------------------   07.64 %
+Vue.js                     43 hrs 1 min    >------------------------   05.04 %
+HTML                       35 hrs 13 mins  >------------------------   04.13 %
 TypeScript                 25 hrs 27 mins  >------------------------   02.99 %
-CSS                        21 hrs 31 mins  >------------------------   02.53 %
-Docker                     19 hrs 34 mins  >------------------------   02.30 %
-Other                      19 hrs 15 mins  >------------------------   02.26 %
+CSS                        21 hrs 31 mins  >------------------------   02.52 %
+YAML                       19 hrs 54 mins  >------------------------   02.34 %
+Docker                     19 hrs 34 mins  >------------------------   02.29 %
 ```
 
 <!--END_SECTION:waka-->
