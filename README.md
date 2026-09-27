@@ -7,9 +7,9 @@ in software architecture, infrastructure and self-hosting.
 
 Currently working on:
 
-- 🏢 Full-stack development at **2Emotion**
-- 🚀 Building **Azygo**, a platform for student associations
-- 🛠️ Building projects and infrastructure with **A3Studio**
+- 🏢 Full-stack development at **[2Emotion](https://2emotion.com)**
+- 🚀 Building **[Azygo](https://azygo.fr)**, a platform for student associations
+- 🛠️ Building projects and infrastructure with **[A3Studio](https://a3studio.dev)**
 - 🐳 Self-hosting, Docker, CI/CD and Linux infrastructure
 
 ## 🧰 Stack
